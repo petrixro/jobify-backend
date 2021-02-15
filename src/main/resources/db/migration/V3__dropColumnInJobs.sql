@@ -1,0 +1,2 @@
+-- ALTER TABLE jobOffer
+-- DROP COLUMN company_name;
